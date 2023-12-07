@@ -1,2 +1,2 @@
 # ranking-desa
-Perangkingan desa berdasrkan skor IDM (Indeks Desa Membangun)
+Perangkingan desa berdasakan skor IDM (Indeks Desa Membangun)
